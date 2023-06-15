@@ -1,4 +1,4 @@
-# chestxrays-classifier-explainer
-GradCAM for explaining chestxrays classifier 
+# image-classifier-explainer
+GradCAM for explaining any classifer model
 
 Readme (wip)
