@@ -1,4 +1,4 @@
 # image-classifier-explainer
-GradCAM for explaining any classifer model
+GradCAM for explaining any classifier model
 
 Readme (wip)
