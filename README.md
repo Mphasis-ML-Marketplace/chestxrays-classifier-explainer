@@ -1,4 +1,1 @@
-# image-classifier-explainer
-GradCAM for explaining any classifier model
-
-Readme (wip)
+# explainable-ai-for-image-classification
