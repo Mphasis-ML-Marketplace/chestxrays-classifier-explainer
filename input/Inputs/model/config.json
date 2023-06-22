@@ -1,0 +1,10 @@
+{
+    "model_filename": "chest_xray_model.pth",
+    "labels": {
+        "covid_19": 0,
+        "lung_opacity": 1,
+        "normal": 2,
+        "pneumonia": 3
+    },
+    "target_layer": "model.layer4"
+}
